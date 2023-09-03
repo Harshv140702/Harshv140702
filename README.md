@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Harsh Vardhan Singh!</h1>
 
-![](https://komarev.com/ghpvc/?username=Harshv140702)
 
 - 🔭 I’m currently learning and working on React, Machine Learning, Deep Learning and Flask
 - 📫 You can reach out to me at hvs140702@gmail.com.
