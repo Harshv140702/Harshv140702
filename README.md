@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently learning and working on React, Machine Learning, Deep Learning and Flask
 - 📫 You can reach out to me at hvs140702@gmail.com.
-- ⚡ My portfolio: https://harshv140702.github.io/Portfolio-website/
 - 📄 Check out my resume: https://drive.google.com/file/d/1LQIvLZmu5K0rgZUNEK65OhUPIGPxMmvt/view
 
 ### Languages and Tools:
