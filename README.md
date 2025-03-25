@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning and working on React, Machine Learning, Deep Learning and Flask
 - 📫 You can reach out to me at hvs140702@gmail.com.
-- 📄 Check out my resume: https://drive.google.com/file/d/1LQIvLZmu5K0rgZUNEK65OhUPIGPxMmvt/view
+- 📄 Check out my resume: https://drive.google.com/file/d/1vMjj0FBiqsJeeaVfYDS4OOFdt-HBvE8f/view?usp=sharing
 
 ### Languages and Tools:
 
