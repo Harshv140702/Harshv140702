@@ -3,9 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Harsh Vardhan Singh!</h1>
 
 
-- 🔭 I’m currently learning and working on React, Machine Learning, Deep Learning and Flask
-- 📫 You can reach out to me at hvs140702@gmail.com.
-- 📄 Check out my resume: https://drive.google.com/file/d/1vMjj0FBiqsJeeaVfYDS4OOFdt-HBvE8f/view?usp=sharing
+-  I’m currently learning and working on React, Machine Learning, Deep Learning and Flask
+-  You can reach out to me at hvs140702@gmail.com.
+-  Check out my resume: https://drive.google.com/file/d/1ZmhInmup-4ycO9r5a02lYOMCFS-8skS1/view?usp=drive_link
 
 ### Languages and Tools:
 
